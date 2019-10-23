@@ -12,4 +12,7 @@ def print_first_directors_movie_titles
   #pp directors_database[0][:movies]
   movies = directors_database[0][:movies]
 
+    puts movies[1][:title]
+
+  end
 end
