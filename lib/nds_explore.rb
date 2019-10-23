@@ -6,7 +6,6 @@ d_db = nil
 def pretty_print_nds(nds)
   # Change the code below to pretty print the nds with pp
   nil
-  d_db = nds
   pp nds
 end
 
